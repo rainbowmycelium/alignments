@@ -1,0 +1,33 @@
+Name_in_the_alignment;Species;GenBank_Accession;Type;Strain_ID
+E.jenkinii_3;Entomortierella jenkinii;JX975849;;CBS 850.70
+E.parvispora_5;Entomortierella parvispora;JX975859;ST;CBS 304.52
+E.jenkinii_4;Entomortierella jenkinii;JX975873;;CBS 666.75C
+E.parvispora_1;Entomortierella parvispora;JX975934;;FSU 10759
+E.jenkinii_2;Entomortierella jenkinii;JX975999;;CBS 188.73
+E.parvispora_2;Entomortierella parvispora;JX976009;;FSU10552
+E.parvispora_7;Entomortierella parvispora;JX976029;;CBS 316.61
+E.basiparvispora_1;Entomortierella basiparvispora;JX976048;;CBS 517.72
+E.parvispora_4;Entomortierella parvispora;JX976049;;CBS 445.68
+E.beljakovae_2;Entomortierella beljakovae;JX976072;;CBS 267.71
+E.jenkinii_1;Entomortierella jenkinii;JX976088;ET;CBS 667.70
+E.parvispora_6;Entomortierella parvispora;JX976104;;CBS 315.61
+E.jenkinii_5;Entomortierella jenkinii;JX976117;;CBS 965.73C
+E.sugadairana_1;Entomortierella sugadairana;NR_182448;T;NBRC 104553
+E.sugadairana_2;Entomortierella sugadairana;MF510830;;SUT-174
+E.galaxie_1;Entomortierella galaxiae;MT380895;T;CBS 149262
+M.sp_1;Mortierella sp.;MW042205;;patw2.6
+M.sp_2;Mortierella sp.;MW042206;;Pr2s14
+E.galaxie_2;Entomortierella galaxiae;MW042208;;Pr1s18
+E.galaxie_3;Entomortierella galaxiae;MW042209;;pfs28
+E.parvispora_3;Entomortierella parvispora;NR_077185;T;CBS 311.52
+E.beljakovae_1;Entomortierella beljakovae;NR_111584;T;CBS 123.72
+E.basiparvispora_2;Entomortierella basiparvispora;NR_160139;T;CBS 518.72
+E.zelaziora_1;Entomortierella żelaziora;OQ344505;;WA135233
+E.zelaziora_2;Entomortierella żelaziora;OQ344511;;WA135238
+E.zelaziora_3;Entomortierella żelaziora;OQ344517;;WA135244
+E.zelaziora_4;Entomortierella żelaziora;OQ344519;;WA135246
+E.zelaziora_5;Entomortierella żelaziora;OQ344503;;WA135230
+Mortierella_sp._1;Mortierella sp.;MN905907;;SM14-21-28-2
+Mortierella_sp._2;Mortierella sp.;MH487572;;MF245
+Mortierella_sp._3;Mortierella sp.;MH487567;;MF236
+Mortierella_sp._4;Mortierella sp.;MK272964;;HSP125
